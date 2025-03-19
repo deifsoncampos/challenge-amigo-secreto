@@ -14,7 +14,7 @@ Exibir o nome sorteado na tela.
 
 Limpar a lista de nomes após o sorteio.
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas 
 
 HTML
 
@@ -49,5 +49,7 @@ Adicionar a opção de remover nomes individualmente da lista.
 Criar uma interface mais interativa e estilizada.
 
 Autor
+
+https://github.com/deifsoncampos
 
 Projeto desenvolvido como um exemplo prático de manipulação do DOM com JavaScript. Sinta-se à vontade para contribuir com melhorias!
